@@ -3,4 +3,5 @@ The aim of the program is preparation large texts for analysis. From the given t
 
 ## Instructions: 
 First to use the program, one must install the Python compiler. To do so, enter the site and follow the given steps: https://code.visualstudio.com/
+
 Then to start the program you must change the filename in the code.
